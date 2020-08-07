@@ -6,7 +6,7 @@
 
 **Thoughts:** The goal is to create a web app as if it were a portfolio of freelancers. But, in this case, it would only be available teachers to teach.
 
-**Link to work:** [Proofy App](https://github.com/GersonRocha9/proofy-app)
+**Link to work:** [Proofy App](https://github.com/GersonRocha9/proffy)
 
 ___________________________________________________________________________
 
@@ -16,7 +16,7 @@ ___________________________________________________________________________
 
 **Thoughts:** The goal is to create a web app as if it were a portfolio of freelancers. But, in this case, it would only be available teachers to teach.
 
-**Link to work:** [Proofy App](https://github.com/GersonRocha9/proofy-app)
+**Link to work:** [Proofy App](https://github.com/GersonRocha9/proffy)
 
 ___________________________________________________________________________
 
@@ -26,6 +26,6 @@ ___________________________________________________________________________
 
 **Thoughts:** The goal is to create a web app as if it were a portfolio of freelancers. But, in this case, it would only be available teachers to teach.
 
-**Link to work:** [Proofy App](https://github.com/GersonRocha9/proofy-app)
+**Link to work:** [Proofy App](https://github.com/GersonRocha9/proffy)
 
 ___________________________________________________________________________
